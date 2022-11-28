@@ -3,7 +3,6 @@ body{
 }
 
 .abstract {
-    -webkit-filter: blur(70px);
     filter: blur(100px);
     position: absolute;
 }
